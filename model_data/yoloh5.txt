@@ -1,0 +1,7 @@
+
+link to download yolo pretrained model
+
+https://drive.google.com/open?id=1qzXRLhv1eHl4Dr9HREyXQoFCo4SJ9xqO
+
+
+download and put it into model_data folder
